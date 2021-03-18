@@ -4,15 +4,16 @@
 - 💞️ I’m looking for a job
 - 📫 How to reach me: Linkedin or Gmail
 
+  
 
-Which projects were made during courses?
--ContactKeeper
--Courses-administrator
--Logs-noter
--Github-finder
--YelpCamp
--MuseumOfCandy
--CircleSite
+Which projects were made during courses?  
+· ContactKeeper  
+· Courses-administrator  
+· Logs-noter  
+· Github-finder  
+· YelpCamp  
+· MuseumOfCandy  
+· CircleSite  
 
 ...and the rest are my own projects:)
 
