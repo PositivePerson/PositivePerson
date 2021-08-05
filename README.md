@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartek
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Node.js and practising React
+- 🌱 I’m currently learning Next.js and practising React
 - 💞️ I’m looking for a job
 - 📫 How to reach me: Linkedin or Gmail
 
