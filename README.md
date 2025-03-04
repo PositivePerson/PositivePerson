@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartek
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently practising React
+- 👀 I’m interested in Javascript, Clouds, Cybersecurity
+- 🌱 I’m currently using most NextJS and Clouds
 - 💞️ I’m looking for a job
 - 📫 How to reach me: Linkedin or Gmail
 
